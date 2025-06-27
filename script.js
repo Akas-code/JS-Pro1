@@ -3,6 +3,8 @@ const body = document.querySelector("body");
 // console.log(boxes);
 // console.log(body);
 
+// alert("Click on the boxes to change the background color and text of the heading! MERI TITLI");
+
 boxes.forEach(function (box) {
   box.addEventListener("click", function (e) {
     // console.log(e);
