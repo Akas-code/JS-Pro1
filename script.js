@@ -14,7 +14,7 @@ boxes.forEach(function (box) {
       document.querySelector("h1").innerHTML = "I love You";
     }
     if (e.target.id === "2nd") {
-      body.style.backgroundColor = "green";
+      body.style.backgroundColor = "lightgreen";
       document.querySelector("h1").innerHTML = " Tmse bahut pyaar krta hu meri WIFI";
     }
     if (e.target.id === "3rd") {
